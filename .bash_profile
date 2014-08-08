@@ -26,3 +26,5 @@ alias brake='bundle exec rake'
 
 alias gundo='git reset --soft HEAD^'
 alias gredo='git commit -c ORIG_HEAD'
+
+alias gitx='gittower'
